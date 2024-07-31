@@ -14,3 +14,4 @@ A public list of which themes have been used so far for Morphology.
 - ATOM -> UNIVERSE
 - HARE -> TORTOISE
 - SPURS -> ACTION
+- WATER -> WINE
