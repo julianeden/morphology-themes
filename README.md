@@ -10,3 +10,7 @@ A public list of which themes have been used so far for Morphology.
 - BEGINNING -> MIDDLE -> END
 - Phases of matter (GAS, LIQUID, SOLID, PLASMA)
 - FARM -> TABLE ("Farm to table")
+- Taylor Swift, with the morph moving through a series of her album titles
+- ATOM -> UNIVERSE
+- HARE -> TORTOISE
+- SPURS -> ACTION
