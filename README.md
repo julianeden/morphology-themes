@@ -15,3 +15,4 @@ A public list of which themes have been used so far for Morphology.
 - HARE -> TORTOISE
 - SPURS -> ACTION
 - WATER -> WINE
+- PAST -> PRESENT -> FUTURE
