@@ -16,3 +16,5 @@ A public list of which themes have been used so far for Morphology.
 - SPURS -> ACTION
 - WATER -> WINE
 - PAST -> PRESENT -> FUTURE
+- SLIM -> NONE
+- Stages of fire, from SPARK -> FLAME -> EMBER -> ASH
