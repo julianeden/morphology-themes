@@ -18,3 +18,4 @@ A public list of which themes have been used so far for Morphology.
 - PAST -> PRESENT -> FUTURE
 - SLIM -> NONE
 - Stages of fire, from SPARK -> FLAME -> EMBER -> ASH
+- STAIRWAY -> HEAVEN
