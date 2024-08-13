@@ -22,3 +22,4 @@ A public list of which themes have been used so far for Morphology.
 - ATTIC -> BASEMENT, passing through LADDER and STAIRS
 - ZERO -> HERO
 - RAGS -> RICHES
+- FROG -> PRINCE, passing through KISS
