@@ -23,3 +23,5 @@ A public list of which themes have been used so far for Morphology.
 - ZERO -> HERO
 - RAGS -> RICHES
 - FROG -> PRINCE, passing through KISS
+- ALPHA -> OMEGA
+- STUDENT -> TEACHER
